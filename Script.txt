@@ -1,0 +1,23 @@
+#Task 1 = Pasar de Excel a R.
+
+# Graficar retorno acumulado
+
+# Calcular medidas descriptivas (mean, skewness, median, toda la wea)
+
+# Calcular ratio de sharpe
+
+1. Realice un breve análisis del rendimiento histórico de cada uno de los sectores en el periodo
+2010-2018
+
+Datos a utilizar: Mis datos Limpios; periodo 2010 - 2018 ; notar que la data base esta sucia.
+
+
+(a) Grafique el retorno acumulado de cada indice (todos en el mismo gráfico)
+
+ Para hacer esta mierda tengo que tener los datos que requiero como objeto serie de tiempo. [Mis datos limpios 2010-2018]
+
+(b) Reporte las siguientes estadístiacs descriptivas: media, volatilidad, skewness, kurtosis.
+Comente sus resultados.
+
+(c) Calcule el ratio de Sharpe histórico de cada indice. ¿Qué sector posee el ratio de Sharpa
+más grande?

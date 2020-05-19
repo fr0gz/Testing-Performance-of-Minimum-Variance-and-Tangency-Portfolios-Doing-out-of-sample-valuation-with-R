@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567989486758.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6ED3715",
+    "lastKnownWriteTime" : 7233190515500939109,
+    "last_content_update" : 1567989486758,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C3582775",
+        "caption" : "estadistica_descriptiva_P1",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=estadistica_descriptiva_P1&cache_key=C3582775",
+        "displayedObservations" : "7",
+        "environment" : "",
+        "object" : "estadistica_descriptiva_P1",
+        "preview" : "0",
+        "totalObservations" : "7",
+        "variables" : "13"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
